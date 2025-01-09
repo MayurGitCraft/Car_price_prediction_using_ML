@@ -22,3 +22,4 @@ Linear Regression provided the highest R-squared score (0.56), indicating the be
 Ridge Regression and Lasso Regression had lower R-squared scores, suggesting that they did not perform as well on this dataset.
 Thus, based on the Linear Regression model's superior R-squared score, we concluded that it provides the most accurate predictions for the car price dataset and is the most suitable model for our analysis.
 
+![Screenshot 2025-01-09 191518](https://github.com/user-attachments/assets/5775ff51-0444-4cb5-98e7-931b1ca1a38d)
